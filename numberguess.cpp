@@ -21,8 +21,9 @@ int main(){
     cin>>guess;
     if(guess==gen){
         cout<<"BULLSEYE"<<endl;
+        break;
     }
-    else if(abs(guess-gen)>20){
+    else if(abs(guess-gen)>5){
         if(guess>gen){
             cout<<"TOO HIGH"<<endl;
         }
@@ -40,5 +41,5 @@ int main(){
     else{
         return 0; 
     }
-}
+
 
