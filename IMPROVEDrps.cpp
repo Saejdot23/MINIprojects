@@ -1,3 +1,7 @@
+//Had fun coding this project
+//i made use of cstd and time in srand(time(0)) and rand()%randmax + shift
+//new were string use case <string>
+//best optimization was to use string array to alloacate valid string data to the app. string 
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
