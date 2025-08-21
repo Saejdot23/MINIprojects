@@ -1,3 +1,7 @@
+//WHATS NEW !
+//BY CODING THIS PROGRAM I LEARNT ABOUT (RAND()% RANDMAX) + SHIFT
+//CSTDLIB AND CTIME LIB 
+//ALSO TO INITAILIZE SEED ==> SRAND(TIME(0))
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>//for rand and srand 
