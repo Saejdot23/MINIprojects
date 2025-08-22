@@ -1,3 +1,8 @@
+//This project was made by me and yajat
+//doing this i learnt about bool int type
+//creating algo
+//using system("pause");
+//checking if win condition and draw condition dont exist together
 #include <iostream>
 using namespace std;
 int j=0;
